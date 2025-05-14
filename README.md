@@ -13,7 +13,6 @@
 *MENTOR*: NEELA SANTHOSH
 
 *DESCRIPTION*: 
-📄 Project Description
 As part of this task, I designed and developed a responsive and visually appealing personal portfolio website using HTML and CSS. The primary goal of the project was to create a professional single-page website that effectively showcases my skills, experiences, and projects as a web developer. The web page includes structured sections like a hero banner, about section, projects gallery, and a contact area. It also features modern UI/UX elements such as smooth scrolling, responsive design, hover animations, and an engaging dark theme aesthetic.
 
 🛠️ Tasks Performed
@@ -85,3 +84,4 @@ Through this task, I successfully created a professional-grade, fully responsive
 
 
 *OUTPUT*: 
+![Image](https://github.com/user-attachments/assets/30c40f82-bb1d-4814-8fac-3d897a1b320e)
