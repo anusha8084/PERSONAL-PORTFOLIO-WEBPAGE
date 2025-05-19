@@ -38,3 +38,4 @@ In summary, this portfolio is a representation of my foundational skills in fron
 
 
 *OUTPUT* :
+![Image](https://github.com/user-attachments/assets/2d90a0d2-7b78-42eb-97bd-80b3936236d4)
